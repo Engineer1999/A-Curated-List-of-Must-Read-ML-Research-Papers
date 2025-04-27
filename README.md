@@ -104,7 +104,6 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Meta-learning and Few-shot Learning | Baby steps towards few-shot learning with multiple semantics (2020)                            | [paper](https://arxiv.org/abs/1906.01905) |
 | Meta-learning and Few-shot Learning | Meta-Learning: A Survey (2018)                                                                | [paper](https://arxiv.org/abs/1810.03548) |
 | Meta-learning and Few-shot Learning | A Perspective View And Survey Of Meta-learning (2002)                                         | [paper](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning) |
-
 | Computer Vision | 3D Object Detection for Autonomous Driving: A Survey | [paper](https://doi.org/10.1016/j.patcog.2022.108796) |
 | Computer Vision | 3D Object Detection from Images for Autonomous Driving: A Survey | [paper](https://arxiv.org/abs/2202.02980) |
 | Computer Vision | 3D Vision with Transformers: A Survey | [paper](https://doi.org/10.48550/arXiv.2208.04309) |
@@ -163,7 +162,6 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Computer Vision                  | A Survey on Vision Transformer                                                                   | [paper](https://arxiv.org/abs/2012.12556) |
 | Computer Vision                  | Review of deep learning: concepts, CNN architectures, challenges, applications, future directions| [paper](https://link.springer.com/article/10.1186/s40537-021-00444-8) |
 | Computer Vision                  | Transformers in Vision: A Survey                                                                 | [paper](https://arxiv.org/abs/2101.01169) |
-
 | Contrastive Learning | Self-supervised Learning: Generative or Contrastive | [paper](https://arxiv.org/abs/2006.08218) |
 | Curriculum Learning | A Survey on Curriculum Learning | [paper](https://doi.org/10.1109/TPAMI.2021.3069908) |
 | Curriculum Learning | Automatic Curriculum Learning For Deep RL: A Short Survey | [paper](https://doi.org/10.24963/ijcai.2020/671) |
@@ -263,12 +261,6 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Diffusion Models | Diffusion Models in Vision: A Survey | [paper](https://doi.org/10.48550/arXiv.2209.04747) |
 | Diffusion Models | Diffusion Models: A Comprehensive Survey of Methods and Applications | [paper](https://doi.org/10.48550/arXiv.2209.00796) |
 | Diffusion Models | Efficient Diffusion Models for Vision: A Survey | [paper](https://doi.org/10.48550/arXiv.2210.09292) |
-| Recommender   | Recommender systems survey | [paper](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf) |
-| Recommender   | Deep Learning based Recommender System: A Survey and New Perspectives | [paper](https://arxiv.org/pdf/1707.07435.pdf) |
-| Recommender   | Are We Really Making Progress? An Analysis of Neural Recommendation Approaches | [paper](https://arxiv.org/pdf/1907.06902.pdf)
-| Recommender   | A Survey of Serendipity in Recommender Systems | [paper](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
-| Recommender   | Diversity in Recommender Systems – A survey | [paper](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
-| Recommender   | A Survey of Explanations in Recommender Systems | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
 | Federated Learning | A Survey on Heterogeneous Federated Learning | [paper](https://doi.org/10.48550/arXiv.2210.04505) |
 | Federated Learning | Achieving security and privacy in federated learning systems: Survey, research challenges and future directions | [paper](https://doi.org/10.1016/j.engappai.2021.104468) |
 | Federated Learning | Advances and Open Problems in Federated Learning | [paper](http://arxiv.org/abs/1912.04977) |
@@ -814,6 +806,12 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Recommender Systems | Tag-Aware Recommender Systems: A State-of-the-Art Survey | [paper](https://doi.org/10.1007/s11390-011-0176-1) |
 | Recommender Systems | Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works | [paper](http://arxiv.org/abs/1712.07525) |
 | Resources And Evaluation | A Short Survey on Sense-Annotated Corpora | [paper](https://www.aclweb.org/anthology/2020.lrec-1.706/) |
+| Recommender   | Recommender systems survey | [paper](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf) |
+| Recommender   | Deep Learning based Recommender System: A Survey and New Perspectives | [paper](https://arxiv.org/pdf/1707.07435.pdf) |
+| Recommender   | Are We Really Making Progress? An Analysis of Neural Recommendation Approaches | [paper](https://arxiv.org/pdf/1907.06902.pdf)
+| Recommender   | A Survey of Serendipity in Recommender Systems | [paper](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
+| Recommender   | Diversity in Recommender Systems – A survey | [paper](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
+| Recommender   | A Survey of Explanations in Recommender Systems | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
 | Resources And Evaluation | A Survey of Current Datasets for Vision and Language Research | [paper](https://doi.org/10.18653/v1/d15-1021) |
 | Resources And Evaluation | A Survey of Evaluation Metrics Used for NLG Systems | [paper](https://doi.org/10.1145/3485766) |
 | Resources And Evaluation | A Survey of Word Embeddings Evaluation Methods | [paper](http://arxiv.org/abs/1801.09536) |
