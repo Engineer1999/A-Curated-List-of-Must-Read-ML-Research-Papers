@@ -68,6 +68,43 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Classification, Clustering And Regression | Deep Clustering: A Comprehensive Survey | [paper](https://doi.org/10.48550/arXiv.2210.04142) |
 | Classification, Clustering And Regression | Deep learning for time series classification: a review | [paper](https://doi.org/10.1007/s10618-019-00619-1) |
 | Classification, Clustering And Regression | How Complex Is Your Classification Problem?: A Survey on Measuring Classification Complexity | [paper](https://doi.org/10.1145/3347711) |
+| Deep Learning                    | A State-of-the-Art Survey on Deep Learning Theory and Architectures (2019)                       | [paper](https://www.mdpi.com/2079-9292/8/3/292/htm) |
+| Deep Learning                    | Knowledge Distillation: A Survey (2021)                                                          | [paper](https://arxiv.org/pdf/2006.05525.pdf) |
+| Deep Learning                    | Compression of Deep Learning Models for Text: A Survey (2020)                                    | [paper](https://arxiv.org/pdf/2008.05221.pdf) |
+| Deep Learning                    | A Survey on Deep Transfer Learning (2018)                                                        | [paper](https://arxiv.org/pdf/1808.01974.pdf) |
+| Deep Learning                    | A Comprehensive Survey of Neural Architecture Search (2021)                                      | [paper](https://arxiv.org/abs/2006.02903) |
+| Deep Learning                    | Neural Architecture Search: A Survey (2019)                                                      | [paper](https://arxiv.org/abs/1808.05377) |
+| Natural Language Processing      | Recent Trends in Deep Learning Based Natural Language Processing (2018)                          | [paper](https://arxiv.org/pdf/1708.02709.pdf) |
+| Natural Language Processing      | Deep Learning Based Text Classification: A Comprehensive Review (2021)                           | [paper](https://arxiv.org/pdf/2004.03705) |
+| Natural Language Processing      | Survey of the SOTA in Natural Language Generation: Core tasks, applications and evaluation (2018)| [paper](https://www.jair.org/index.php/jair/article/view/11173/26378) |
+| Natural Language Processing      | Neural Language Generation: Formulation, Methods, and Evaluation (2020)                         | [paper](https://arxiv.org/pdf/2007.15780.pdf) |
+| Natural Language Processing      | Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer (2020)                | [paper](https://arxiv.org/abs/1910.10683) |
+| Natural Language Processing      | Efficient Transformers: A Survey (2020)                                                          | [paper](https://arxiv.org/pdf/2009.06732.pdf) |
+| Natural Language Processing      | Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (2020)                          | [paper](https://arxiv.org/pdf/2005.04118.pdf) |
+| Natural Language Processing      | Evaluation of Text Generation: A Survey (2020)                                                   | [paper](https://arxiv.org/pdf/2006.14799.pdf) |
+| Vision and Language              | Trends in Integration of Vision and Language Research: Tasks, Datasets, and Methods (2021)        | [paper](https://doi.org/10.1613/jair.1.11688) |
+| Vision and Language              | Multimodal Research in Vision and Language: Current and Emerging Trends (2020)                   | [paper](https://arxiv.org/abs/2010.09522) |
+| Reinforcement Learning           | A Brief Survey of Deep Reinforcement Learning (2017)                                             | [paper](https://arxiv.org/pdf/1708.05866.pdf) |
+| Reinforcement Learning           | Transfer Learning for Reinforcement Learning Domains (2009)                                      | [paper](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf) |
+| Reinforcement Learning           | Review of Deep Reinforcement Learning Methods and Applications in Economics (2020)                | [paper](https://arxiv.org/pdf/2004.01509.pdf) |
+| Reinforcement Learning           | Deep Reinforcement Learning for Search, Recommendation, and Online Advertising (2018)             | [paper](https://arxiv.org/pdf/1812.07127.pdf) |
+| Graph                            | A Comprehensive Survey on Graph Neural Networks (2019)                                           | [paper](https://arxiv.org/pdf/1901.00596.pdf) |
+| Graph                            | A Practical Guide to Graph Neural Networks (2020)                                                | [paper](https://arxiv.org/pdf/2010.05234.pdf) |
+| Graph                            | A systematic literature review of graph-based anomaly detection approaches (2020)                 | [paper](https://www.sciencedirect.com/science/article/pii/S0167923620300580) |
+| Graph                            | A Comprehensive Introduction to Knowledge Graphs (2021)                                          | [paper](https://arxiv.org/pdf/2003.02320.pdf) |
+| Embeddings                       | From Word to Sense Embeddings: A Survey on Vector Representations of Meaning (2018)              | [paper](https://www.jair.org/index.php/jair/article/view/11259/26454) |
+| Embeddings                       | Diachronic Word Embeddings and Semantic Shifts (2018)                                            | [paper](https://arxiv.org/pdf/1806.03537.pdf) |
+| Embeddings                       | Word Embeddings: A Survey (2019)                                                                 | [paper](https://arxiv.org/abs/1901.09069) |
+| Embeddings                       | A Reproducible Survey on Word Embeddings and Ontology-based Methods for Word Similarity (2019)   | [paper](https://doi.org/10.1016/j.engappai.2019.07.010) |
+| Embeddings                       | A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications (2017)          | [paper](https://arxiv.org/pdf/1709.07604) |
+| Meta-learning and Few-shot Learning | Meta-learning for Few-shot Natural Language Processing: A Survey (2020)                       | [paper](https://arxiv.org/abs/2007.09604) |
+| Meta-learning and Few-shot Learning | Learning from Few Samples: A Survey (2020)                                                    | [paper](https://arxiv.org/abs/2007.15484) |
+| Meta-learning and Few-shot Learning | Meta-Learning in Neural Networks: A Survey (2020)                                             | [paper](https://arxiv.org/abs/2004.05439) |
+| Meta-learning and Few-shot Learning | A Comprehensive Overview and Survey of Recent Advances in Meta-Learning (2020)                | [paper](https://arxiv.org/abs/2004.11149) |
+| Meta-learning and Few-shot Learning | Baby steps towards few-shot learning with multiple semantics (2020)                            | [paper](https://arxiv.org/abs/1906.01905) |
+| Meta-learning and Few-shot Learning | Meta-Learning: A Survey (2018)                                                                | [paper](https://arxiv.org/abs/1810.03548) |
+| Meta-learning and Few-shot Learning | A Perspective View And Survey Of Meta-learning (2002)                                         | [paper](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning) |
+
 | Computer Vision | 3D Object Detection for Autonomous Driving: A Survey | [paper](https://doi.org/10.1016/j.patcog.2022.108796) |
 | Computer Vision | 3D Object Detection from Images for Autonomous Driving: A Survey | [paper](https://arxiv.org/abs/2202.02980) |
 | Computer Vision | 3D Vision with Transformers: A Survey | [paper](https://doi.org/10.48550/arXiv.2208.04309) |
@@ -118,6 +155,15 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Computer Vision | Transformers in Remote Sensing: A Survey | [paper](https://doi.org/10.48550/arXiv.2209.01206) |
 | Computer Vision | Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey | [paper](https://doi.org/10.48550/arXiv.2211.10412) |
 | Contrastive Learning | A Survey on Contrastive Self-supervised Learning | [paper](https://arxiv.org/abs/2011.00362) |
+| Computer Vision                  | Object Detection in 20 Years (2019)                                                              | [paper](https://arxiv.org/pdf/1905.05055.pdf) |
+| Computer Vision                  | Threat of Adversarial Attacks on Deep Learning in Computer Vision (2018)                         | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186) |
+| Computer Vision                  | Computer Vision for Autonomous Vehicles: Problems, Datasets and SOTA (2021)                      | [paper](https://arxiv.org/pdf/1704.05519.pdf) |
+| Computer Vision                  | A Comprehensive Survey of Deep Learning for Image Captioning (2018)                              | [paper](https://arxiv.org/pdf/1810.04020.pdf) |
+| Computer Vision                  | A Survey on Instance Segmentation: State of the art                                              | [paper](https://arxiv.org/abs/2007.00047) |
+| Computer Vision                  | A Survey on Vision Transformer                                                                   | [paper](https://arxiv.org/abs/2012.12556) |
+| Computer Vision                  | Review of deep learning: concepts, CNN architectures, challenges, applications, future directions| [paper](https://link.springer.com/article/10.1186/s40537-021-00444-8) |
+| Computer Vision                  | Transformers in Vision: A Survey                                                                 | [paper](https://arxiv.org/abs/2101.01169) |
+
 | Contrastive Learning | Self-supervised Learning: Generative or Contrastive | [paper](https://arxiv.org/abs/2006.08218) |
 | Curriculum Learning | A Survey on Curriculum Learning | [paper](https://doi.org/10.1109/TPAMI.2021.3069908) |
 | Curriculum Learning | Automatic Curriculum Learning For Deep RL: A Short Survey | [paper](https://doi.org/10.24963/ijcai.2020/671) |
@@ -217,6 +263,12 @@ This document contains the survey of hundreds of papers on Natural Language Proc
 | Diffusion Models | Diffusion Models in Vision: A Survey | [paper](https://doi.org/10.48550/arXiv.2209.04747) |
 | Diffusion Models | Diffusion Models: A Comprehensive Survey of Methods and Applications | [paper](https://doi.org/10.48550/arXiv.2209.00796) |
 | Diffusion Models | Efficient Diffusion Models for Vision: A Survey | [paper](https://doi.org/10.48550/arXiv.2210.09292) |
+| Recommender   | Recommender systems survey | [paper](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf) |
+| Recommender   | Deep Learning based Recommender System: A Survey and New Perspectives | [paper](https://arxiv.org/pdf/1707.07435.pdf) |
+| Recommender   | Are We Really Making Progress? An Analysis of Neural Recommendation Approaches | [paper](https://arxiv.org/pdf/1907.06902.pdf)
+| Recommender   | A Survey of Serendipity in Recommender Systems | [paper](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
+| Recommender   | Diversity in Recommender Systems – A survey | [paper](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
+| Recommender   | A Survey of Explanations in Recommender Systems | [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
 | Federated Learning | A Survey on Heterogeneous Federated Learning | [paper](https://doi.org/10.48550/arXiv.2210.04505) |
 | Federated Learning | Achieving security and privacy in federated learning systems: Survey, research challenges and future directions | [paper](https://doi.org/10.1016/j.engappai.2021.104468) |
 | Federated Learning | Advances and Open Problems in Federated Learning | [paper](http://arxiv.org/abs/1912.04977) |
