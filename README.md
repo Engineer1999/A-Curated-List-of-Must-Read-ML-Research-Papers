@@ -1,4 +1,7 @@
-# Extracted Paper List by Category
+# A Survey of ML Papers
+<p align="center">
+  <img src="./assets/ML.webp" alt="Machine Learning Survey" width="600"/>
+</p>
 
 
 This document contains the survey of hundreds of papers on Natural Language Processing and Machine Learning. Papers are categorized into seprate topics along with URLs. New papers will be added contibuously.
