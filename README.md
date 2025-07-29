@@ -57,10 +57,6 @@ We are continuously working to enhance this resource! Here are some exciting fea
 
 *Stay tuned for these updates and feel free to suggest features or contribute!*
 
-
-*Stay tuned for these updates and feel free to suggest features or contribute!*
-
-
 **Try it now:** <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">https://horizonx.live</a>
 
 ---
