@@ -15,9 +15,9 @@ From foundational deep learning architectures to cutting-edge transformer models
 
 ---
 
-## 🌐 **Featured Resource: [HorizonX.live](https://horizonx.live)**
+## 🌐 **Featured Resource: <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a>**
 
-> **Supercharge your Rresearch journey with [HorizonX.live](https://horizonx.live) — the all-in-one platform for all your research needs.**
+> **Supercharge your Rresearch journey with <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">HorizonX.live</a> — the all-in-one platform for all your research needs.**
 
 - 🔍 **Search & Explore**: Instantly find trending ML papers, code, and datasets.
 - 🗂️ **Personalized Libraries**: Save, organize, and annotate your favorite research.
@@ -61,7 +61,7 @@ We are continuously working to enhance this resource! Here are some exciting fea
 *Stay tuned for these updates and feel free to suggest features or contribute!*
 
 
-**Try it now:** [https://horizonx.live](https://horizonx.live)
+**Try it now:** <a href="https://horizonx.live" target="_blank" rel="noopener noreferrer">https://horizonx.live</a>
 
 ---
 
